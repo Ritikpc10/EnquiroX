@@ -44,7 +44,7 @@ Steps to Run the Project
 
 Clone the Repository:
 
-git clone https://github.com/your-username/EnquiroX.git
+git clone https://github.com/Ritikpc10/EnquiroX.git
 cd EnquiroX
 
 Install Dependencies:
