@@ -63,10 +63,6 @@ Run the Application:
 
 python splash_screen.py
 
-📸 Screenshots
-
-(Add relevant UI screenshots here)
-
 📌 Future Enhancements
 
 Implement email notifications for enquiries.
@@ -75,15 +71,4 @@ Improve UI/UX with modern design.
 
 Add admin panel for better control.
 
-📜 License
-
-This project is open-source and free to use.
-
-👨‍💻 Author
-
-Ritik Pachauri
-
-GitHub: your-username
-
-LinkedIn: Your LinkedIn Profile
 
